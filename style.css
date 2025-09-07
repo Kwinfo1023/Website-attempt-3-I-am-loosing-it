@@ -1,51 +1,4 @@
-.hero-logo {
-  width: 200px;
-  height: 200px;
-  max-width: 90vw;
-  max-height: 200px;
-  object-fit: contain;
-  margin-bottom: 16px;
-  display: block;
-  background: transparent;
-  border: none;
-  box-shadow: none;
-}
-.hero-logo {
-  width: 200px;
-  height: 200px;
-  max-width: 90vw;
-  max-height: 200px;
-  object-fit: contain;
-  margin-bottom: 16px;
-  display: block;
-  background: transparent;
-  border: none;
-  box-shadow: none;
-}
-.hero-logo {
-  width: 200px;
-  height: 200px;
-  max-width: 90vw;
-  max-height: 200px;
-  object-fit: contain;
-  margin-bottom: 16px;
-  display: block;
-  background: transparent;
-  border: none;
-  box-shadow: none;
-}
-.hero-logo {
-  width: 200px;
-  height: 200px;
-  max-width: 90vw;
-  max-height: 200px;
-  object-fit: contain;
-  margin-bottom: 16px;
-  display: block;
-  background: transparent;
-  border: none;
-  box-shadow: none;
-}
+
 /* Hero section background image */
 
 /* White box for hero text */
@@ -157,14 +110,7 @@ nav a:hover {
   }
 }
 
-.hero img {
-  object-fit: contain;
-  height: 200px;
-  width: 200px;
-  margin-bottom: 16px;
-  display: block;
-  background: transparent;
-}
+
 
 .hero h1 {
   color:#1A1A1A;
